@@ -37,9 +37,9 @@ p {
 }
 
 .main h1 {
-  color: #fff;
+  color: #DDDD;
   margin: 0;
-  font-size: 45px;
+  font-size: 100px;
 }
 
 .main p {
@@ -101,7 +101,7 @@ p {
   background: url("http://whytoread.com/wp-content/uploads/2015/03/best-books-book-youll-ever-read.jpg"
     ) no-repeat center center;
   background-size: cover;
-  height: 2500px;
+  height: 600px;
   text-align: center;
 }
 
@@ -119,9 +119,9 @@ p {
 
 /* Footer */
 .footer {
-  background: url("http://login.weboder.net/fotografije/computerboy.gif") no-repeat center center;
+  background: url("http://thinklink.in/wp-content/uploads/internet-for-english.jpg") no-repeat center center;
   background-size: cover;
-  height: 500px;
+  height: 600px;
   text-align: center;
 }
 
